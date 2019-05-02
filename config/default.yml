@@ -2,7 +2,7 @@ server:
   port: 3000
 application:
   domain: juice-sh.op
-  name: 'OWASP Juice Shop'
+  name: 'My Juice Shop'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
   numberOfRandomFakeUsers: 0
@@ -44,14 +44,14 @@ challenges:
   overwriteUrlForProductTamperingChallenge: 'https://owasp.slack.com'
 products:
   -
-    name: 'Apple Juice (1000ml)'
+    name: 'Mapple Juice (1000ml)'
     price: 1.99
     description: 'The all-time classic.'
     image: apple_juice.jpg
     reviews: # Options 'author': admin, jim, bender, ciso, support, morty, mc.safesearch
       - { text: 'One of my favorites!', author: admin }
   -
-    name: 'Orange Juice (1000ml)'
+    name: 'Morange Juice (1000ml)'
     description: 'Made from oranges hand-picked by Uncle Dittmeyer.'
     price: 2.99
     image: orange_juice.jpg
