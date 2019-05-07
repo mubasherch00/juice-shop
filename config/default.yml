@@ -47,19 +47,19 @@ products:
     name: 'Mapple Juice (1000ml)'
     price: 1.99
     description: 'The all-time classic.'
-    image: apple_juice.jpg
+    image: Having-Fun.png
     reviews: # Options 'author': admin, jim, bender, ciso, support, morty, mc.safesearch
       - { text: 'One of my favorites!', author: admin }
   -
     name: 'Morange Juice (1000ml)'
     description: 'Made from oranges hand-picked by Uncle Dittmeyer.'
     price: 2.99
-    image: orange_juice.jpg
+    image: Having-Fun.png
   -
     name: 'Eggfruit Juice (500ml)'
     description: 'Now with even more exotic flavour.'
     price: 8.99
-    image: eggfruit_juice.jpg
+    image: Having-Fun.png
     reviews:
       - { text: 'I bought it, would buy again. 5/7', author: admin }
   -
@@ -76,24 +76,24 @@ products:
     name: 'Banana Juice (1000ml)'
     description: 'Monkeys love it the most.'
     price: 1.99
-    image: banana_juice.jpg
+    image: Having-Fun.png
     reviews:
       - { text: 'Fry liked it too.', author: bender }
   -
     name: 'OWASP Juice Shop T-Shirt'
     description: 'Real fans wear it 24/7!'
     price: 22.49
-    image: fan_shirt.jpg
+    image: Having-Fun.png
   -
     name: 'OWASP Juice Shop CTF Girlie-Shirt'
     description: 'For serious Capture-the-Flag heroines only!'
     price: 22.49
-    image: fan_girlie.jpg
+    image: Having-Fun.png
   -
     name: 'OWASP SSL Advanced Forensic Tool (O-Saft)'
     description: 'O-Saft is an easy to use tool to show information about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.'
     price: 0.01
-    image: orange_juice.jpg
+    image: Having-Fun.png
     urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/O-Saft'
   -
     name: 'Christmas Super-Surprise-Box (2014 Edition)'
